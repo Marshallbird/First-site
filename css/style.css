@@ -263,7 +263,7 @@ header .hero-img .hero-txt p {
 }
 
 .team .team-bg-hero {
-  background-image: url(../img/meeting-room-small.jpg);
+  background-image: url("../img/meeting-room-small.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -354,12 +354,12 @@ header .hero-img .hero-txt p {
     background-image: url("../img/obiektyw_big.jpg");
   }
   .support-and-care-hero {
-    background-image: url(../img/laptop-big.jpg);
+    background-image: url("../img/laptop-big.jpg");
   }
   .team-bg-hero {
-    background-image: url(../img/meeting-room-small.jpg);
+    background-image: url("../img/meeting-room-small.jpg");
   }
   .contact-bg-hero {
-    background-image: url(../img/city-big.jpg);
+    background-image: url("../img/city-big.jpg");
   }
 }/*# sourceMappingURL=style.css.map */
