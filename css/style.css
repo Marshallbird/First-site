@@ -117,7 +117,7 @@ header .hero-img {
   position: relative;
   height: 100vh;
   background-image: url("../img/obiektyw_small.jpg");
-  background-position: 50% 0%;
+  background-position: center;
   background-size: cover;
   background-attachment: fixed;
   z-index: 0;
